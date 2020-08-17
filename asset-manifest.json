@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.1bdaf2da.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.4fa467f7.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.4fa467f7.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.6d8b9d52.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.6d8b9d52.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/React-Portfolio/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.602e2ce6.chunk.js": "/React-Portfolio/static/js/2.602e2ce6.chunk.js",
+    "static/js/2.602e2ce6.chunk.js.map": "/React-Portfolio/static/js/2.602e2ce6.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.eeacf09614f35ac57ace95ba5dd39df3.js": "/React-Portfolio/precache-manifest.eeacf09614f35ac57ace95ba5dd39df3.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/React-Portfolio/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.1bdaf2da.chunk.css.map": "/React-Portfolio/static/css/main.1bdaf2da.chunk.css.map",
+    "static/js/2.602e2ce6.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.602e2ce6.chunk.js.LICENSE.txt",
+    "static/media/dynamic.png": "/React-Portfolio/static/media/dynamic.8b2a5e34.png",
+    "static/media/emailSquare.png": "/React-Portfolio/static/media/emailSquare.12b18591.png",
+    "static/media/fast.jpg": "/React-Portfolio/static/media/fast.d1f4917b.jpg",
+    "static/media/index.scss": "/React-Portfolio/static/media/train.f540b5ea.gif",
+    "static/media/google.jpg": "/React-Portfolio/static/media/google.a191d8dd.jpg",
+    "static/media/homecook.jpg": "/React-Portfolio/static/media/homecook.cd0129c9.jpg",
+    "static/media/job.jpg": "/React-Portfolio/static/media/job.e47055e9.jpg",
+    "static/media/linkedinSquare.png": "/React-Portfolio/static/media/linkedinSquare.d0d9090a.png",
+    "static/media/me.jpg": "/React-Portfolio/static/media/me.b68c0733.jpg",
+    "static/media/mongodb.jpg": "/React-Portfolio/static/media/mongodb.49ea64f2.jpg",
+    "static/media/project1.jpg": "/React-Portfolio/static/media/project1.569b1f0a.jpg",
+    "static/media/train.jpg": "/React-Portfolio/static/media/train.bada42de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8b9d52.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.602e2ce6.chunk.js",
+    "static/css/main.1bdaf2da.chunk.css",
+    "static/js/main.4fa467f7.chunk.js"
+  ]
+}
