@@ -5,6 +5,16 @@ import dynamic from "../img/dynamic.png";
 import intuitive from "../img/intuitive.png";
 import myImage from "../img/me.jpg";
 import PropTypes from "prop-types";
+import html from "../img/html.png";
+import node from "../img/node.png";
+import mongo from "../img/mongo.png";
+import js from "../img/js.png";
+import css from "../img/css.png";
+import sql from "../img/sql.png";
+import react from "../img/react.png";
+import express from "../img/express.png";
+import ps from "../img/ps.jpg";
+import ai from "../img/ai.jpg";
 
 export default class About extends React.Component {
 	render() {
@@ -95,86 +105,114 @@ export default class About extends React.Component {
 							"col-12 col-sm-12 col-md-12 col-lg-6 " +
 							this.props.tada
 						}>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-80-bar"
-								role="progressbar"
-								style={{ width: 90 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								HTML5
-							</div>
+							<h3>Skills</h3>
+						<div>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={mongo}
+							alt=""
+							style={{
+								borderRadius: 50 + "%",
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={express}
+							alt=""
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={react}
+							alt=""
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={node}
+							alt=""
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
 						</div>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-80-bar"
-								role="progressbar"
-								style={{ width: 80 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								CSS3
-							</div>
+						<div>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={html}
+							alt=""
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={css}
+							alt=""
+							style={{
+								borderRadius: 50 + "%",
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={sql}
+							alt=""
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={js}
+							alt="JavaSrcipt"
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
 						</div>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-90-bar"
-								role="progressbar"
-								style={{ width: 90 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								Javascript
-							</div>
+						<div>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={ps}
+							alt=""
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
+						<img
+							className={"img-fluid " + this.props.fadeIn}
+							src={ai}
+							alt=""
+							style={{
+								
+								height: 100 + "px",
+								width: 100 + "px"
+							}}
+						/>
 						</div>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-90-bar"
-								role="progressbar"
-								style={{ width: 86 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								ReactJS
-							</div>
-						</div>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-80-bar"
-								role="progressbar"
-								style={{ width: 70 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								MySQL
-							</div>
-						</div>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-80-bar"
-								role="progressbar"
-								style={{ width: 80 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								MongoDB
-							</div>
-						</div>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-80-bar"
-								role="progressbar"
-								style={{ width: 85 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								NodeJS
-							</div>
-						</div>
-						<div className="progress mb-3">
-							<div
-								className="progress-bar fill-80-bar"
-								role="progressbar"
-								style={{ width: 80 + "%" }}
-								aria-valuemin="0"
-								aria-valuemax="100">
-								Express
-							</div>
-						</div>
+						
 						
 					</div>
 				</div>

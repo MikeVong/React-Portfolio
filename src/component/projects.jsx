@@ -423,8 +423,7 @@ export default class Projects extends React.Component {
 									A MERN app that allow user to search for a book. Then the book can be view and save it to the database.
 									</li>
 									<li>
-										Developed with HTML5, CSS3, Bootstrap,
-										NodeJs, Express, MongoDB, and ReactJS.
+										Developed with HTML5, CSS3, Bootstrap, NodeJs, Express, MongoDB, and ReactJS.
 									</li>
 								</ul>
 							</div>
