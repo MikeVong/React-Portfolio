@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.1bdaf2da.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.4fa467f7.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.4fa467f7.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.95bc63c5.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.95bc63c5.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.6d8b9d52.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.6d8b9d52.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/React-Portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.602e2ce6.chunk.js": "/React-Portfolio/static/js/2.602e2ce6.chunk.js",
-    "static/js/2.602e2ce6.chunk.js.map": "/React-Portfolio/static/js/2.602e2ce6.chunk.js.map",
+    "static/js/2.cdc745bb.chunk.js": "/React-Portfolio/static/js/2.cdc745bb.chunk.js",
+    "static/js/2.cdc745bb.chunk.js.map": "/React-Portfolio/static/js/2.cdc745bb.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.eeacf09614f35ac57ace95ba5dd39df3.js": "/React-Portfolio/precache-manifest.eeacf09614f35ac57ace95ba5dd39df3.js",
+    "precache-manifest.0f5ae7686458dd70af5a5ebb0d6e676c.js": "/React-Portfolio/precache-manifest.0f5ae7686458dd70af5a5ebb0d6e676c.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/React-Portfolio/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.1bdaf2da.chunk.css.map": "/React-Portfolio/static/css/main.1bdaf2da.chunk.css.map",
-    "static/js/2.602e2ce6.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.602e2ce6.chunk.js.LICENSE.txt",
+    "static/js/2.cdc745bb.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.cdc745bb.chunk.js.LICENSE.txt",
+    "static/media/ai.jpg": "/React-Portfolio/static/media/ai.6fe2155b.jpg",
     "static/media/dynamic.png": "/React-Portfolio/static/media/dynamic.8b2a5e34.png",
     "static/media/emailSquare.png": "/React-Portfolio/static/media/emailSquare.12b18591.png",
+    "static/media/express.png": "/React-Portfolio/static/media/express.33b71383.png",
     "static/media/fast.jpg": "/React-Portfolio/static/media/fast.d1f4917b.jpg",
     "static/media/index.scss": "/React-Portfolio/static/media/train.f540b5ea.gif",
     "static/media/google.jpg": "/React-Portfolio/static/media/google.a191d8dd.jpg",
@@ -25,13 +27,16 @@
     "static/media/me.jpg": "/React-Portfolio/static/media/me.b68c0733.jpg",
     "static/media/mongodb.jpg": "/React-Portfolio/static/media/mongodb.49ea64f2.jpg",
     "static/media/project1.jpg": "/React-Portfolio/static/media/project1.569b1f0a.jpg",
+    "static/media/ps.jpg": "/React-Portfolio/static/media/ps.dd05b9ce.jpg",
+    "static/media/react.png": "/React-Portfolio/static/media/react.56cbceaf.png",
+    "static/media/sql.png": "/React-Portfolio/static/media/sql.a5d4074a.png",
     "static/media/train.jpg": "/React-Portfolio/static/media/train.bada42de.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6d8b9d52.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.602e2ce6.chunk.js",
+    "static/js/2.cdc745bb.chunk.js",
     "static/css/main.1bdaf2da.chunk.css",
-    "static/js/main.4fa467f7.chunk.js"
+    "static/js/main.95bc63c5.chunk.js"
   ]
 }
