@@ -108,7 +108,7 @@ export default class About extends React.Component {
 							<h3>Skills</h3>
 						<div>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={mongo}
 							alt=""
 							style={{
@@ -118,31 +118,31 @@ export default class About extends React.Component {
 							}}
 						/>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={express}
 							alt=""
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
 						/>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={react}
 							alt=""
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
 						/>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={node}
 							alt=""
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
@@ -150,17 +150,17 @@ export default class About extends React.Component {
 						</div>
 						<div>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={html}
 							alt=""
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
 						/>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={css}
 							alt=""
 							style={{
@@ -170,21 +170,21 @@ export default class About extends React.Component {
 							}}
 						/>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={sql}
 							alt=""
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
 						/>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={js}
 							alt="JavaSrcipt"
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
@@ -192,21 +192,21 @@ export default class About extends React.Component {
 						</div>
 						<div>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={ps}
 							alt=""
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
 						/>
 						<img
-							className={"img-fluid " + this.props.fadeIn}
+							className={"shadow p-2 mb-5 img-fluid " + this.props.fadeIn}
 							src={ai}
 							alt=""
 							style={{
-								
+								borderRadius: 50 + "%",
 								height: 100 + "px",
 								width: 100 + "px"
 							}}
