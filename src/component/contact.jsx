@@ -3,22 +3,23 @@ import PropTypes from "prop-types";
 import github from "../img/githubSquare.png";
 import linkedin from "../img/linkedinSquare.png";
 import email from "../img/emailSquare.png";
+import pdf from "../img/MikeVongResume.pdf";
+import resume from "../img/resume.gif";
 
 export default class Contact extends React.Component {
 	render() {
 		return (
-			<div className="jumbotron" id="my-contact">
+			<div className="jumbotron bg-white" id="my-contact">
 			<div  className="container text-center my-5">
 				<h1 id="contact" className={"mb-3 " + this.props.fadeInLeft}>
 					Contact
 				</h1>
-				<h4>Name: Mike Vong</h4>
-                <h4>Phone: (626)383-9040</h4>
-                <h4>E-mail: mv910@hotmail.com</h4>
-				<div className="container">
-					<div className="row">
-						<div className="col-12 col-sm-12 col-md-8 mx-auto">
-							<a
+				<div className="row">
+					<div className="col-md-6 text-center pb-3">
+						<h4>Name: Mike Vong</h4>
+                		<h4>Phone: (626)383-9040</h4>
+                		<h4>E-mail: mv910@hotmail.com</h4>
+						<a
 								href="https://www.linkedin.com/in/vongmichael"
 								target="_blank"
 								rel="noopener noreferrer">
@@ -32,7 +33,7 @@ export default class Contact extends React.Component {
 							</a>
 							<a
 								className="px-3"
-								href="https://github.com/MikeVong?tab=repositories"
+								href="https://github.com/MikeVong"
 								target="_blank"
 								rel="noopener noreferrer">
 								<img src={github} 
@@ -56,12 +57,40 @@ export default class Contact extends React.Component {
 									width: 100 + "px"
 								}}/>
 							</a>
-						</div>
+					</div>
+					<div className="col-md-6 ">	
+						<a className="btn btn-outline-success"
+								href={pdf} 
+								target="_blank"
+								rel="noopener noreferrer">
+									View Resume
+						</a>
+						<img
+						className={"pt-2 pb-2 img-fluid " + this.props.fadeIn}
+						src={resume}
+						alt=""
+						style={{
+							
+							height: 250 + "px",
+							width: 600 + "px"
+						}}
+						/>
+
+								
+							
+					</div>
+					</div>
+				
+				</div>
+				
+				<div className="container">
+					<div className="row">
+						
 					</div>
 
 				</div>
 			</div>
-			</div>
+			
 		);
 	}
 }

@@ -22,7 +22,7 @@ export default class About extends React.Component {
 			<div
 				id="about-container"
 				className="content-containers container text-center mt-5">
-				<h1 id="about" className={this.props.bounceLeft}>
+				<h1 id="about" className={"my-5 "+ this.props.bounceLeft}>
 					About
 				</h1>
 				<div className="row mt-5">
@@ -97,7 +97,7 @@ export default class About extends React.Component {
 							}}
 						/>
 						<p className={"mytext pt-3 " + this.props.fadeIn}>
-						Recently earned a certificate in full stack development from the University of Central Florida, with newly developed skills in JavaScript, CSS, React.js, and responsive web design.  Excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
+						Recently earned a certificate in full stack development from the University of Central Florida, with newly developed skills in MongoDB, Express, ReactJS, NodeJS, JavaScript, HTML5, CSS, MySQL, PhotoShop, Illustrator and responsive web design.  Excited to leverage my skills as part of a fast-paced, quality-driven team to build better experiences on the web.
 						</p>
 					</div>
 					<div

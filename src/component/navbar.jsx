@@ -57,7 +57,7 @@ class Navbar extends React.Component {
 				/>
 				<nav
 					id="navbar"
-					className="navbar navbar-expand-lg navbar-light bg-light">
+					className="navbar navbar-expand-lg navbar-dark bg-dark">
 					<div className="container">
 						<button
 							className="home-style navbar-brand btn"
@@ -69,7 +69,7 @@ class Navbar extends React.Component {
 							}}>
 							Back to Stars
 						</button>
-						{/* <button
+						<button
 							className="navbar-toggler"
 							type="button"
 							data-toggle="collapse"
@@ -78,7 +78,7 @@ class Navbar extends React.Component {
 							aria-expanded="false"
 							aria-label="Toggle navigation">
 							<span className="navbar-toggler-icon" />
-						</button> */}
+						</button>
 						<div
 							className="collapse navbar-collapse"
 							id="navbarNavAltMarkup">

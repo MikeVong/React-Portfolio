@@ -12,18 +12,18 @@ export default class Projects extends React.Component {
 	render() {
 		return (
 			<React.Fragment>
-				<div id="my-projects" className="container-fluid bg-light mt-5">
-					<div className=" project-container container bg-light pb-5">
+				<div id="my-projects" className="container-fluid bg-white mt-5">
+					<div className=" project-container container bg-white pb-5">
 						<h1
 							id="projects"
-							className={"text-center " + this.props.fadeInRight}>
+							className={"text-center my-5 " + this.props.fadeInRight}>
 							Projects
 						</h1>
 						<div className="row my-5">
 
 							<div
 								className={
-									"homecookbg col-sm-12 col-md-4 " +
+									"p-1 border border-info homecookbg col-sm-12 col-md-4 " +
 									this.props.fadeIn
 								}>
 								<div className="overlay">
@@ -52,7 +52,7 @@ export default class Projects extends React.Component {
 							</div>
 							<div
 								className={
-									"newscraperbg col-12 col-sm-12 col-md-4 " +
+									"p-1 border border-info newscraperbg col-12 col-sm-12 col-md-4 " +
 									this.props.fadeIn
 								}>
 								<div className="overlay">
@@ -81,7 +81,7 @@ export default class Projects extends React.Component {
 							</div>
 							<div
 								className={
-									"gamerbg col-12 col-sm-12 col-md-4 " +
+									"p-1 border border-info gamerbg col-12 col-sm-12 col-md-4 " +
 									this.props.fadeIn
 								}>
 								<div className="overlay">
@@ -111,7 +111,7 @@ export default class Projects extends React.Component {
 
 							<div
 								className={
-									"trainbg col-12 col-sm-12 col-md-4 " +
+									"p-1 border border-info trainbg col-12 col-sm-12 col-md-4 " +
 									this.props.fadeIn
 								}>
 								<div className="overlay">
@@ -140,7 +140,7 @@ export default class Projects extends React.Component {
 							</div>
 							<div
 								className={
-									"googlebg col-12 col-sm-12 col-md-4 " +
+									"p-1 border border-info googlebg col-12 col-sm-12 col-md-4 " +
 									this.props.fadeIn
 								}>
 								<div className="overlay">
@@ -169,7 +169,7 @@ export default class Projects extends React.Component {
 							</div>
 							<div
 								className={
-									"jobbg col-12 col-sm-12 col-md-4 " +
+									"p-1 border border-info jobbg col-12 col-sm-12 col-md-4 " +
 									this.props.fadeIn
 								}>
 								<div className="overlay">
