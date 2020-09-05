@@ -3,8 +3,8 @@ import Background from "./background.jsx";
 import About from "./about.jsx";
 import Projects from "./projects.jsx";
 import Contact from "./contact.jsx";
-
 import WOW from "wowjs";
+import ReactGa from "react-ga";
 
 class Navbar extends React.Component {
 	constructor(props) {
@@ -20,6 +20,9 @@ class Navbar extends React.Component {
 		const wow = new WOW.WOW({live: false});
 		wow.init();
 		// new WOW.WOW({live: false}).init();
+		ReactGa.initialize("UA-177294813-1")
+		//to report page view
+		ReactGa.pageview("/")
 	}
 
 	navEffect() {
